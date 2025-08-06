@@ -39,3 +39,6 @@ A Python implementation of TCP client-server communication with custom encryptio
 2. Client encrypts and sends a message
 3. Server receives, processes, and responds
 4. All communication is encrypted using custom crypto utilities
+
+<img width="1920" height="1078" alt="client py - tcp-socket-programming - Visual Studio Code 06-08-2025 18_12_07" src="https://github.com/user-attachments/assets/b0e3c7ad-9ef3-44d3-bf4a-f945d1f81f0b" />
+
